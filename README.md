@@ -24,7 +24,7 @@ Backend:
 <li>Socket.io is used to allow all users to modify a document simultaneously.</li>
 <li>Mongoose library is used to interact with MongoDB database.</li>
 <li> 3 different pages /login, /signup, /doc.</li>
-<li> It contains /login, and /signup POST APIs and as a response it sends JWT token.</li>
+<li> It contains /login, and /signup POST APIs and as a response they send JWT token.</li>
 <li> /doc endpoints saves the current changes made to the document within 2 seconds.</li>
 <li> The web app is hosted on AWS EC2 instance.</li>
 
