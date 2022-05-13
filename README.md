@@ -1,5 +1,5 @@
 **<h1>[Varila](http://18.222.21.75:3000)</h1>**<br/>
-Varila is a full-stack(MERN) application which  allows users in a decentralized location to collaborate on the document and make modifications to the document at the same time.
+Varila is a full-stack(MERN) application which  allows users all over the world to collaborate on the document and make modifications to the document at the same time.
 
 ![Verila_intro_gif](https://user-images.githubusercontent.com/27888823/131608928-b3b79d20-308a-41c4-868d-ab8cc98b8830.gif)
 
