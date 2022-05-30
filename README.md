@@ -9,13 +9,13 @@ Tools/Technologies: Git/Github, MongoDB, AWS, </p>
 <h2>Design</h2>
 <li>MVC design pattern for the backend.</li>
 <li>Redux for front-end JWT storage.</li>
+<li>Unless users signs up or log in, other pages such as /doc are not reachable.</li>
 <li>Observer design pattern for socket.io integration, which allows users to make modification to a document simultaneously.</li>
 
 
 <h2>Implementation</h2>
 Front-end:
 <li>Material-ui library is used for login & sign-up components.</li>
-<li>Unless users signs up or log in, other pages such as /doc are not reachable.</li>
 <li>The user data is stored in MongoDB database.</li>
 <li>Redux and Redux-persist is utilized to store JWT token sent by backend API calls.</li>
 <li>Quill library is used for text-editor functionality.</li>
