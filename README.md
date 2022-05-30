@@ -1,5 +1,5 @@
 **<h1>[Varila](http://18.222.21.75:3000)</h1>**<br/>
-Varila is a full-stack(MERN) application which  allows users all over the world to collaborate on a document and make modifications at the same time.
+Varila is a full-stack(MERN) application that allows users all over the world to collaborate on a document and make modifications at the same time.
 
 ![Verila_intro_gif](https://user-images.githubusercontent.com/27888823/131608928-b3b79d20-308a-41c4-868d-ab8cc98b8830.gif)
 
@@ -23,9 +23,9 @@ Front-end:
 Backend:
 <li>Socket.io is used to allow all users to modify a document simultaneously.</li>
 <li>Mongoose library is used to interact with MongoDB database.</li>
-<li> 3 different pages /login, /signup, /doc.</li>
-<li> It contains /login, and /signup POST APIs and as a response they send JWT token.</li>
-<li> /doc endpoints saves the current changes made to the document within 2 seconds.</li>
+<li>There are 3 different pages: /login, /signup, /doc.</li>
+<li>The /login, and /signup POST APIs send JWT token as a response.</li>
+<li>/doc/{{document_id}} endpoints save the current changes made to the document within 2 seconds.</li>
 <li> The web app is hosted on AWS EC2 instance.</li>
 
 
