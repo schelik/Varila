@@ -30,4 +30,4 @@ Backend:
 
 
 <h2>Time & Effort</h2>
-The project took ~12 hours in total, within 3 days.
+The project took ~18 hours in total, within 3 days.
